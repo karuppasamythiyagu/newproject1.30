@@ -10,5 +10,10 @@ public class SampleTest {
 		System.out.println("Student Id:ME1234");
 
 	}
+	
+	private void studentAddress() {
+		System.out.println("Student Address:Chennai");
+
+	}
 
 }
