@@ -15,5 +15,10 @@ public class SampleTest {
 		System.out.println("Student Address:Chennai");
 
 	}
+	
+	private void studentPhoneNumber() {
+		System.out.println("Phone number:9090909090");
+
+	}
 
 }
